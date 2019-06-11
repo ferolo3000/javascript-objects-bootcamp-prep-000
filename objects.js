@@ -3,3 +3,5 @@ var playlist = {
   ColdPlay: "Yellow",
   Quen: "Radio Gaga"
 };
+
+function 
