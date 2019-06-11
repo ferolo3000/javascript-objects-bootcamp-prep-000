@@ -4,4 +4,6 @@ var playlist = {
   Quen: "Radio Gaga"
 };
 
-function 
+function updatePlaylist (playlist, artist, song) {
+  
+}
